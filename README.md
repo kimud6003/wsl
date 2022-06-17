@@ -1,5 +1,11 @@
 # WSL
 
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> &nbsp 
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=Windows Terminal&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Terminal-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> &nbsp
+</div>
+
 - `Window` 에서 `Linux` 사용하려면 `Virtual Machine`과 같은 도구(Virtual Box, VMware 등)을 이용하여 듀얼 부팅 설정을 해야 했다.
 
 > 하지만 필자는 듀얼부팅을 해서 사용하면 GPU 사용을 하지 않아서 인지 frame이 떨어지는것이 너무 싫었다ㅠㅠ
