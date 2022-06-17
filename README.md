@@ -1,4 +1,4 @@
-# WSL
+# WSL(Window Subsystem for Linux)
 
 ![Title](./imgs/img.jpg) 
 <div style="display:flex;">
