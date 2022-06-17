@@ -1,5 +1,6 @@
 # WSL
 
+![Title](./imgs/img.jpg) 
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> &nbsp 
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=Windows Terminal&logoColor=white"> &nbsp
